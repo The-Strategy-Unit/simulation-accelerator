@@ -5,15 +5,21 @@ format:
     toc: true
 ---
 
-## 📦 What is RAP?
+## 📦 What is Simulation?
 
-RAP (Reproducible Analytical Pipelines) are a set of tools, principles, and techniques that enable analysts to create analytical processes that are automated, transparent, quality assured and reusable. This has the potential to increase efficiency and quality of analytical work across the healthcare system.
+Simulation is an analytical technique used to model complex systems and processes in order to:
 
-The [Goldacre review](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis) recommended RAP as the _minimum standard for academic and NHS data analysis_.
+* understand behavior 
+* identify the impact of potential improvements/interventions 
+* make predictions about their performance under different scenarios
 
-## 🚀 What is the RAP Accelerator?
+In healthcare, simulation can be used to model patient flow, resource allocation, and identify bottlenecks, among other things. Healthcare systems are complex and dynamic, with many interacting components, making it difficult to predict how changes will affect outcomes. Simulation provides a way to explore these complexities in a controlled environment.
 
-A programme for ICB analysts starting their RAP journey, building the foundational skills to apply these approaches in practice. Some coding experience is expected (see [prerequisites](prerequisites.qmd)), along with enthusiasm to learn.
+Simulation involves creating a virtual representation of a real-world system that accurately mimics its behavior, allowing analysts to experiment with different scenarios and assess the potential impact of change.
+
+## 🚀 What is the Simulation Accelerator?
+
+A programme for ICB analysts starting their simulation journey, building the foundational skills to apply this approach in practice. Some coding experience is expected (see [prerequisites](prerequisites.qmd)), along with enthusiasm to learn.
 
 It runs as a _flipped classroom_. You'll work through learning material at your own pace before each session, then use session time with tutors for discussion, problem-solving, and going deeper.
 

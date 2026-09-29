@@ -8,7 +8,7 @@ format:
 
 ::: {.card-box}
 
-## ℹ️ About RAP Accelerator
+## ℹ️ About Simulation Accelerator
 
 Learn more about [how the accelerator programme works](about/about.qmd), see if this programme is [aimed at you](about/learner-personas.qmd), and check you meet [the prerequisites](about/prerequisites.qmd).
 :::
@@ -49,4 +49,4 @@ All our [learning materials](learning_materials/index.qmd) are available online 
 </style>
 
 
-Welcome to the Reproducible Analytical Pipelines (RAP) Accelerator. A programme for ICB analysts starting their RAP journey, building the foundational skills to apply these approaches in practice. This programme runs from October – December 2026 and is funded by the Strategic Commissioning Intelligence Centre (SCIC).
+Welcome to the Simulation Accelerator. A programme for ICB analysts starting their simulation journey, building the foundational skills to apply this approach in practice. This programme runs from January – March 2027 and is funded by the Strategic Commissioning Intelligence Centre (SCIC).
