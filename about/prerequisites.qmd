@@ -13,18 +13,24 @@ You should be comfortable with the basics of R or Python:
 - Working with variables
 - Using packages/libraries (installing and importing)
 
+## 💻 What you need to have installed
+
+There are no pre-requisites for the Simulation Accelerator in terms of software, we will be working in a virtual python environment throughout the course, but you may find it beneficial to work locally in future so we recommend that you have the following installed on your laptop:
+- Python and an integrated development environment (IDE) of your choice
+
 ## 💬 During the sessions
 
-As the RAP Accelerator is run in a _flipped classroom_ style, the sessions are highly engaging — don't expect to just sit back and watch! To get the most out of the programme, here's what we ask of you:
+As the Simulation Accelerator is run in a _flipped classroom_ style, the sessions are highly engaging — don't expect to just sit back and watch! To get the most out of the programme, here's what we ask of you:
 
 - **Complete the pre-work**: 60–90 minutes before each session. Essential, not optional.
 - **Camera on**: we'll work in small groups, and we learn best when we can see each other.
 - **Engage actively**: ask questions, work through examples, share what you're learning.
 - **Bring a real project**: the [capstone project](../learning_materials/5_capstone/index.qmd) applies what you've learnt to something that matters to you.
 
+<!--
 ## 🧑‍🏫 Need a quick refresher?
 
-If you want to take part in the RAP accelerator but don't yet meet the prerequisites, there is a chance for you to upskill before October.
+If you want to take part in the Simulation accelerator but don't yet meet the prerequisites, there is a chance for you to upskill before October.
 
 The NHS Open Analytics community is running an Introduction to R and RStudio course in September. Attending this will ensure you meet the prerequisites. You can [sign up online](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=slTDN7CF9UeyIge0jXdO49xonCqYusFJh3y-kXmKM_1UM0pRTVZLVVJDSzVVWjFXRTI1VTFXVFVVSS4u). On the sign-up form, please write that you heard about the workshop through SCIC. 
-
+-->
