@@ -7,6 +7,26 @@ format:
 
 Some examples of the kinds of people that might come on the accelerator, and what they might learn
 
+## Abigail Analyst
+
+* Abigail Analyst is a new analyst in an ICB, with a lot of enthusiasm and some experience of working with data
+* They answer questions with data as part of their day-to-day work, and have a good understanding of the data available to them
+* They are embedded in a team that works closely with operational colleagues and decision makers
+* They are often asked to answer questions about the performance of services
+* They are interested in learning about using simulation to inform service improvement and decision making
+* They have some experience of R and Python, but haven't necessarily used them for modelling or simulation before
+
+## Matthew Modeller
+
+* Matthew Modeller is new to healthcare analytics, but has a lot of experience of modelling in other sectors
+* They have a lot of experience of using R and Python for modelling and want to extend their skillset to include simulation
+* They are comfortable with statistical modelling and have a good understanding of the principles of simulation
+* They are interested in learning about how to apply simulation to healthcare contexts, and how to communicate their findings to decision makers
+* They have heard about simulation at an analyst huddle and have an interest in creating open source simulation models that can be used by others within and beyond their own ICB
+
+
+
+<!--
 ## Riley Reports
 
 * Riley Reports has a lot of experience with performance reports and other forms of regular reporting across a number of NHS contexts
@@ -22,3 +42,4 @@ Some examples of the kinds of people that might come on the accelerator, and wha
 * Before they started with the ICB their team was starting to use Python for data processing and they had started to learn more about using Python for data processing
 * At the moment they are the lead analyst in their area interested in moving data pipelines to Python and have had some early success
 * Patel Pipeline heard about RAP at an analyst huddle and thinks that ensuring data pipeline work is transparent, versioned, and robust will help them convince their team leader to encourage more of the team to move towards Python
+-->
