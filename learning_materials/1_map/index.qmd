@@ -1,0 +1,29 @@
+---
+title: "✨ Map"
+subtitle: "Map your system and identify the problem you want to solve"
+format:
+  html:
+    toc: true
+---
+
+## Overview
+
+Often the most important part of a simulation project is the problem definition (what is the purpose of the model?) and the mapping of the system being modelled. System mapping should not be rushed; it is a chance to build a shared understanding with your team and stakeholders.
+
+In this session, you'll learn the types of questions that simulation can help answer, and how to map a process or pathway.
+
+## 🎯 Learning objectives
+
+By the end of this session, you should be able to:
+
+- Understand what simulation is and how it can be applied
+- Write a clear problem statement 
+- Understand how to map a system and identify the key components and relationships
+
+## 📖 Before the session
+
+Please complete the [pre-learning materials](pre-learning.qmd). These typically take 60 – 90 minutes and are essential for getting the most out of the session.
+
+## 🖥️ During the session
+
+[View the slides →](slides.qmd)

@@ -27,10 +27,10 @@ It runs as a _flipped classroom_. You'll work through learning material at your 
 
 | Theme | Topics |
 |---------|-------|--------|
-| ♻️ [Reusable](../learning_materials/1_reusable/index.qmd) | Write modular, well-documented code that's easy for you and others to understand and reuse |
-| 📖 [Visible](../learning_materials/2_visible/index.qmd) | Make your projects easy to find and use with clear READMEs, licences, and documentation |
-| 👥 [Collaborative](../learning_materials/3_collaborative/index.qmd) | Work effectively with others using Git, code review, and good communication habits |
-| 🛡️ [Reliable](../learning_materials/4_reliable/index.qmd) | Build trust in your code through testing, automation, and reproducible environments|
+| ✨ [Map](../learning_materials/1_map//index.qmd) | Map your system and identify the problem you want to solve |
+| ❔ [Model](../learning_materials/2_model/index.qmd) | Plan your model and the building blocks you'll need |
+| 🎰 [Random](../learning_materials/3_random//index.qmd) | Harness your data and run a stochastic simulation trial |
+| 👥 [Valid](../learning_materials/4_valid/index.qmd) | Build trust in your model through verification and validation |
 | 🏆 [Capstone](../learning_materials/5_capstone/index.qmd) | Put it all into practice on a real project with feedback and support |
 
 Each session includes:
@@ -42,8 +42,8 @@ We'll also have an online community for attendees to ask questions to tutors or 
 
 We won't cover:
 
-- Basic R or Python programming (We [expect you to already know a little programming](prerequisites.qmd))
+- Basic Python programming (We [expect you to already know a little programming](prerequisites.qmd))
 - Plotting and visualisation
-- Modelling and machine learning
-- Using LLMs
-- Building interactive web apps
+- Repository management (Git/GitHub) 
+
+

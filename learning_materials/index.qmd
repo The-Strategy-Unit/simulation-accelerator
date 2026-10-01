@@ -5,13 +5,13 @@ format:
     toc: false
 ---
 
-Welcome to the learning materials for the RAP Accelerator. Each session has pre-learning (required self-study before the session) and slides (used during the 1-hour session). You'll apply what you learn to your own project in the [capstone](5_capstone/index.qmd).
+Welcome to the learning materials for the Simulation Accelerator. Each session has pre-learning (required self-study before the session) and slides (used during the 1-hour session). You'll apply what you learn to your own project in the [capstone](5_capstone/index.qmd).
 
 
 | Session | Focus | Objectives | Pre-learning | Slides |
 |---|---|---|---|---|
-| ♻️ Reusable | Write modular, well-documented code that's easy for you and others to understand and reuse | [Objectives](1_reusable/index.qmd) | [Pre-learning](1_reusable/pre-learning.qmd) | [Slides](1_reusable/slides.qmd) |
-| 📖 Visible | Make your projects easy to find and use with clear READMEs, licences, and documentation | [Objectives](2_visible/index.qmd) | [Pre-learning](2_visible/pre-learning.qmd) | [Slides](2_visible/slides.qmd) |
-| 👥 Collaborative | Work effectively with others using Git, code review, and good communication habits | [Objectives](3_collaborative/index.qmd) | [Pre-learning](3_collaborative/pre-learning.qmd) | [Slides](3_collaborative/slides.qmd) |
-| 🛡️ Reliable | Build trust in your code through testing, automation, and reproducible environments | [Objectives](4_reliable/index.qmd) | [Pre-learning](4_reliable/pre-learning.qmd) | [Slides](4_reliable/slides.qmd) |
+| ✨ Map | Map your system and identify the problem you want to solve | [Objectives](1_map/index.qmd) | [Pre-learning](1_map/pre-learning.qmd) | [Slides](1_map/slides.qmd) |
+| ❔ Model | Make your projects easy to find and use with clear READMEs, licences, and documentation | [Objectives](2_model/index.qmd) | [Pre-learning](2_model/pre-learning.qmd) | [Slides](2_model/slides.qmd) |
+| 🎰 Random | Harness your data and run a stochastic simulation trial | [Objectives](3_random/index.qmd) | [Pre-learning](3_random/pre-learning.qmd) | [Slides](3_random/slides.qmd) |
+| � Valid | Build trust in your model through verification and validation | [Objectives](4_valid/index.qmd) | [Pre-learning](4_valid/pre-learning.qmd) | [Slides](4_valid/slides.qmd) |
 | 🏆 Capstone | Put it all into practice on a real project with feedback and support | [Objectives](5_capstone/index.qmd) | - | - |

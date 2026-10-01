@@ -1,6 +1,6 @@
 ---
-title: "📖 Visible"
-subtitle: "Make your projects easy to find and use with clear READMEs, licences, and documentation"
+title: "❔ Model"
+subtitle: "Plan your model and the building blocks you'll need"
 format:
   html:
     toc: true

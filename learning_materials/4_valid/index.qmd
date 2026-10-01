@@ -1,6 +1,6 @@
 ---
-title: "🛡️ Reliable"
-subtitle: "Build trust in your code through testing, automation, and reproducible environments"
+title: "👥 Valid"
+subtitle: "Build trust in your model through verification and validation"
 format:
   html:
     toc: true

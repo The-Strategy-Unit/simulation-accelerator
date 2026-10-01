@@ -10,7 +10,7 @@ The programme runs over ten weeks. Each module is offered at four different sess
 | Module | Tutor | Session 1 | Session 2 | Session 3 | Session 4 |
 |---|---|---|---|---|---|
 | ✨ [Map](../learning_materials/1_map/index.qmd) | Lucy | Tue 12 Jan, 2:00pm | Wed 13 Jan, 2:00pm | Mon 18 Jan, 2:00pm | Thu 21 Jan, 2:00pm |
-| ❔ [Model](../learning_materials/2_model/index.qmd) | Lucy | Tue 26 Jan Oct, 2:00pm | Wed 27 Jan, 2:00pm | Mon 1 Feb, 2:00pm | Thu 4 Feb, 2:00pm |
+| ❔ [Model](../learning_materials/2_model/index.qmd) | Lucy | Tue 26 Jan, 2:00pm | Wed 27 Jan, 2:00pm | Mon 1 Feb, 2:00pm | Thu 4 Feb, 2:00pm |
 | 🎰 [Random](../learning_materials/3_random/index.qmd) | Lucy | Tue 9 Feb, 2:00pm | Wed 10 Feb, 2:00pm | Mon 15 Feb, 2:00pm | Thu 18 Feb, 2:00pm |
 | 👥 [Valid](../learning_materials/4_valid/index.qmd) | Lucy | Tue 23 Feb, 2:00pm | Wed 24 Feb, 2:00pm | Mon 1 Mar, 2:00pm | Thu 4 Mar, 2:00pm |
 | 🏆 [Capstone](../learning_materials/5_capstone/index.qmd) | Lucy | Tue 9 Mar, 2:00pm | Wed 10 Mar, 2:00pm | Mon 15 Mar, 2:00pm | Thu 18 Mar, 2:00pm |
