@@ -5,6 +5,16 @@ format:
     toc: true
 ---
 
+## Lucy 
+
+::: {style="float: left; margin: 8px;"}
+![](/images/headshot-lucy-morgan.jpg){width=120}
+:::
+
+Lucy Morgan (pronouns: she/her) is Head of Analytics and Modelling and Simulation Lead at The Strategy Unit. She is an experienced simulation modeller and has developed open source simulation models using Python and commercial simulation packages within healthcare and other sectors. She is an active member of the [Operational Research Society](https://www.theorsociety.com/) and an Honorary Researcher at Lancaster University.
+
+<!--
+
 ## YiWen 
 
 ::: {style="float: left; margin: 8px;"}
@@ -23,3 +33,5 @@ YiWen Hon (pronouns: she/her) is a Data Scientist at The Strategy Unit. She has 
 :::
 
 Rhian Davies (pronouns: she/her) is a Senior Data Scientist at The Strategy Unit. She is an experienced statistician and data science consultant working in public health, specialising in R programming. She is also an active member of the R community ([rainbowR](https://rainbowr.org/), [NHS Open Analytics](https://nhsrcommunity.com/), [R-Ladies+](https://rladies.org/)) and a Statistical Ambassador for the [Royal Statistical Society](https://rss.org.uk/).
+
+-->
