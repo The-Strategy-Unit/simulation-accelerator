@@ -1,6 +1,6 @@
 ---
-title: "👥 Collaborative"
-subtitle: "Work effectively with others using Git, code review, and good communication habits"
+title: "🎰 Random"
+subtitle: "Harness your data and run a stochastic simulation trial"
 format:
   html:
     toc: true
