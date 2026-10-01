@@ -25,13 +25,13 @@ website:
         menu:
           - text: "Overview"
             file: learning_materials/index.qmd
-          - text: "♻️ Reusable"
+          - text: "✨ Map"
             file: learning_materials/1_reusable/index.qmd
-          - text: "📖 Visible"
+          - text: "❔ Model"
             file: learning_materials/2_visible/index.qmd
-          - text: "👥 Collaborative"
+          - text: "🎰 Random"
             file: learning_materials/3_collaborative/index.qmd
-          - text: "🛡️ Reliable"
+          - text: "👥 Valid"
             file: learning_materials/4_reliable/index.qmd
           - text: "🏆 Capstone"
             file: learning_materials/5_capstone/index.qmd
