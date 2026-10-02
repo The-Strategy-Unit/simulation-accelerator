@@ -8,17 +8,15 @@ format:
 
 ## Overview
 
-Once you're tracking your code with version control, the next step is making it **visible** and **usable** to others (and your future self). In this session, you'll learn how to document your project, license your code, and share it in ways that encourage collaboration and reuse.
+Simulation models are built up from modular components, which can be combined in different ways to represent the system being modelled. In this session, you'll learn how to plan your model and identify the building blocks you'll need to create it.
 
 ## 🎯 Learning objectives
 
 By the end of this session, you should be able to:
 
-- Write a clear, informative README
-- Choose an appropriate licence for your code
-- Create vignettes or examples that demonstrate how to use your code
-- Set up basic project documentation
-- Make your code and analysis discoverable to others
+- Take your system map and understand which simulation building blocks are needed to represent it
+- Plan the structure of your model, including the key components and their relationships
+- Start to think about what drives your model (randomness, rules, and logic) and how to represent it
 
 ## 📖 Before the session
 

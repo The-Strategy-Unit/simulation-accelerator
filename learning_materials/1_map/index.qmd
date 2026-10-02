@@ -8,7 +8,7 @@ format:
 
 ## Overview
 
-Often the most important part of a simulation project is the problem definition (what is the purpose of the model?) and the mapping of the system being modelled. System mapping should not be rushed; it is a chance to build a shared understanding with your team and stakeholders.
+Often the most important part of a simulation project is the problem definition (what is the purpose of the model?) and the mapping of the system being modelled. System mapping is a chance to build a shared understanding with your team and stakeholders. It should be collaborative and iterative — you may need to revisit your map as you learn more about the system and the problem you're trying to solve.
 
 In this session, you'll learn the types of questions that simulation can help answer, and how to map a process or pathway.
 

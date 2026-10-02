@@ -8,18 +8,18 @@ format:
 
 ## Overview
 
-In this session, you'll learn the fundamentals of **version control** with Git and GitHub — the tools that let teams collaborate safely on code, track changes, and avoid losing work to a corrupted file or accidental overwrite.
+In this session you'll learn about stochasticity and why it's important in simulation to understand and capture uncertainty. We'll look at different types of uncertainty, where they come from and how to measure them when running a simulation trial. 
 
-You'll also explore **peer review** and **pair programming**, and learn how to ask for help effectively when you get stuck.
+As part of this session we'll be fitting statistical distributions to our data and using them to drive our simulation model. We'll also look at setting the seed for random number generation to allow reproducibility of our results.
 
 ## 🎯 Learning objectives
 
 By the end of this session, you should be able to:
 
-- Create and manage a repository on GitHub
-- Commit changes with clear, informative messages
-- Push and pull code from a remote repository
-- Conduct a peer review and give constructive feedback
+- Fit simple statistical distributions to your data 
+- Use fitted distributions to drive your simulation model
+- Set the seed for random number generation
+- Capture the uncertainty caused by stochasticity in your simulation results and understand how to interpret them
 
 ## 📖 Before the session
 
