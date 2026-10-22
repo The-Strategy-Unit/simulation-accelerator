@@ -33,7 +33,10 @@ You're welcome to bring your own simulation project. We'll help you apply simula
 
 ### Use our example
 
+<!--
 If you don't have a suitable project, we have provided an [example simulation project](example.qmd) that you can work through. You'll learn the same principles but on our project instead of yours.
+-->
+If you don't have a suitable project, we have provided an example simulation project (tbc) that you can work through. You'll learn the same principles but on our project instead of yours.
 
 ## 📖 Before the session
 
