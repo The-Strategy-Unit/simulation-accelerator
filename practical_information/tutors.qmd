@@ -8,10 +8,10 @@ format:
 ## Lucy 
 
 ::: {style="float: left; margin: 8px;"}
-![](/images/headshot-lucy-morgan.jpg){width=120}
+![](/images/headshot-lucy-morgan-2.jpg){width=120}
 :::
 
-Lucy Morgan (pronouns: she/her) is Head of Analytics and Modelling and Simulation Lead at The Strategy Unit. She is an experienced simulation modeller and has developed open source simulation models using Python and commercial simulation packages within healthcare and other sectors. She is an active member of the [Operational Research Society](https://www.theorsociety.com/) and an Honorary Researcher at Lancaster University.
+Lucy Morgan (pronouns: she/her) is Head of Analytics and Modelling and Simulation Lead at The Strategy Unit. She is an experienced simulation modeller and has developed open source simulation models using both Python and commercial simulation packages within healthcare and other sectors. She is an active member of the [Operational Research Society](https://www.theorsociety.com/) and an Honorary Researcher at Lancaster University. See her [orcid](https://orcid.org/0000-0003-0987-2350) profile for details of her publications.
 
 <!--
 
