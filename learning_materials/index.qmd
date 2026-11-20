@@ -10,8 +10,9 @@ Welcome to the learning materials for the Simulation Accelerator. Each session h
 
 | Session | Focus | Objectives | Pre-learning | 
 |---|---|---|---|
-| ✨ Map | Map your system and identify the problem you want to solve | [Objectives](1_map/index.qmd) | Pre-learning (tbc) |
-| ❔ Model | Make your projects easy to find and use with clear READMEs, licences, and documentation | [Objectives](2_model/index.qmd) | Pre-learning (tbc)  | 
-| 🎰 Random | Harness your data and run a stochastic simulation trial | [Objectives](3_random/index.qmd) | Pre-learning (tbc)  | 
+| ✨ Map | Map your system, identify the problem you want to solve and plan your model | [Objectives](1_map/index.qmd) | Pre-learning (tbc) |
+| 🎰 Random | Harness your data and real-world variation | [Objectives](3_random/index.qmd) | Pre-learning (tbc)  | 
+| ❔ Model | Build the model that you have carefully designed to answer your questions | [Objectives](2_model/index.qmd) | Pre-learning (tbc)  | 
 | 👥 Valid | Build trust in your model through verification and validation | [Objectives](4_valid/index.qmd) | Pre-learning (tbc) | 
+| 🎲 Experiment | Run scenarios that support the decision you need to make | [Objectives](6_experiment/index.qmd) | Pre-learning (tbc) | 
 | 🏆 Capstone | Put it all into practice on a real project with feedback and support | [Objectives](5_capstone/index.qmd) | - | 

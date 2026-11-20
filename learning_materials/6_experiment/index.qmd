@@ -1,0 +1,29 @@
+---
+title: "🎲 Experiment"
+subtitle: "Run scenarios that support the decision you need to make"
+format:
+  html:
+    toc: true
+---
+
+## Overview
+
+In this session you will report back on the findings from your model and how you have used the model to answer the stakeholders question. This will be in the form of a group presentation where your tutor will act in the place of stakeholders. 
+
+In your assigned groups you will run scenarios that support the decision you need to make, aim to present your findings clearly and concisely.
+
+## 🎯 Learning objectives
+
+By the end of this session, you should be able to:
+
+- Run scenarios that support the decision you need to make
+- Present your findings effectively to stakeholders
+
+
+## 📖 Before the session
+
+<!--
+Please complete the [pre-learning materials](pre-learning.qmd). These typically take 60 – 90 minutes and are essential for getting the most out of the session.
+-->
+Please complete the pre-learning materials (tbc). These typically take 60 – 90 minutes and are essential for getting the most out of the session.
+
