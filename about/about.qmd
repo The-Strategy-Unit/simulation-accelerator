@@ -27,10 +27,11 @@ It runs as a _flipped classroom_. You'll work through learning material at your 
 
 | Theme | Topics |
 |---------|-------|--------|
-| ✨ [Map](../learning_materials/1_map//index.qmd) | Map your system and identify the problem you want to solve |
-| ❔ [Model](../learning_materials/2_model/index.qmd) | Plan your model and the building blocks you'll need |
-| 🎰 [Random](../learning_materials/3_random//index.qmd) | Harness your data and run a stochastic simulation trial |
+| ✨ [Map](../learning_materials/1_map//index.qmd) | Map your system, identify the problem you want to solve and plan your model |
+| 🎰 [Random](../learning_materials/3_random//index.qmd) | Harness your data and real-world variation |
+| ❔ [Model](../learning_materials/2_model/index.qmd) | Build the model that you have carefully designed to answer your questions |
 | 👥 [Valid](../learning_materials/4_valid/index.qmd) | Build trust in your model through verification and validation |
+| 🎲 [Experiment](../learning_materials/6_experiment/index.qmd) | Run scenarios that support the decision you need to make |
 | 🏆 [Capstone](../learning_materials/5_capstone/index.qmd) | Put it all into practice on a real project with feedback and support |
 
 Each session includes:

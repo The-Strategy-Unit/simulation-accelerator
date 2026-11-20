@@ -27,12 +27,14 @@ website:
             file: learning_materials/index.qmd
           - text: "✨ Map"
             file: learning_materials/1_map/index.qmd
-          - text: "❔ Model"
-            file: learning_materials/2_model/index.qmd
           - text: "🎰 Random"
             file: learning_materials/3_random/index.qmd
+          - text: "❔ Model"
+            file: learning_materials/2_model/index.qmd
           - text: "👥 Valid"
             file: learning_materials/4_valid/index.qmd
+          - text: "🎲 Experiment"
+            file: learning_materials/6_experiment/index.qmd
           - text: "🏆 Capstone"
             file: learning_materials/5_capstone/index.qmd
      right: 
